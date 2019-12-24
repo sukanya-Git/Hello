@@ -1,1 +1,2 @@
-print 'Sukanya'
+a = "Sukanya"
+print(a)
